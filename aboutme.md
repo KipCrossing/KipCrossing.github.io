@@ -44,7 +44,7 @@ _Connecting Real People with their Parliament_
 
 In it's current form, DigiPol is an app for iOS and Android that allows users to view and vote on current Australian Federal proposed bills. It's a decentralized app and is built on a web3 Ethereum smart contract. The bill information is collected using ausbills.
 
-**[Ausbills](https://pypi.org/project/ausbills/)** is a python library that serves Australian bills for all the state and federal parliaments. This is another project that I lead and is managed by the **[The OpenGov Australia Project](https://github.com/OpenGovAus)**. This library obtains bill information by web-scraping the bills form each of the parliaments websites.
+**[Ausbills](https://pypi.org/project/ausbills/)** is a python library that serves Australian bills for all the state and federal parliaments. This is another project that I lead and is managed by the **[The OpenGov Australia Project](https://github.com/OpenGovAus)**. This library obtains bill information by web-scraping the bills from each of the parliaments websites.
 
 I am also heavily involved in the Flux Network. The Flux Network consists of a network of political parties that aim to implement digital democracy. These digital democracies may include, but are not limited to, direct democracy, liquid democracy, [vote swapping democracy](https://kipcrossing.github.io/2020-12-29-Vote-Swapping/) and issue based direct democracy.
 
